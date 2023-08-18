@@ -264,6 +264,7 @@ event:
   recvdplace:   Has received ownership of %place%.
   assoc:
    founded:     Founded the association of %assoc%.
+   newmember:   %character% was accepted into the association.
   take:
    start:       Your settlement of %settlement% is being taken over by %character%.
    start2:      Your stewardship of %settlement% is being taken over by %character%.
